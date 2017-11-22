@@ -1,0 +1,1 @@
+/home/tkedziora/.platformio/packages/toolchain-xtensa/bin/xtensa-lx106-elf-g++  -g  -rdynamic CMakeFiles/JujekProject3.dir/src/main.cpp.o  -o JujekProject3 
